@@ -42,7 +42,7 @@
     "fullcalendar": "^3.9.0",
     "jquery": "^3.3.1",
     "karma-coverage-istanbul-reporter": "^2.0.4",
-    "moment": "^2.9.0",
+    "moment": "^2.29.2",
     "ng2-flatpickr": "^6.0.2",
     "ngx-chips": "^1.9.3",
     "nouislider": "^11.1.0",
